@@ -7,5 +7,5 @@ Simple Bash scripts for various admin and user tasks.
 
 `nmRandomMACs.sh` | **Run with sudo**
 
-> Configures NetworkManager to randomize MAC Addresses for WiFi connections.
+> Configures NetworkManager to randomize MAC Addresses for Wi-Fi connections.
 *Defaults to random MACs for individual connections to enable static IP from DHCP.*
