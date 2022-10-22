@@ -1,10 +1,6 @@
 # BashScripts
 Simple Bash scripts for various admin and user tasks.
 
-`BasicHardening.sh`
-
-> Updates umask to make new files unreadable by anyone other than the owner.
-
 `FilenameFix.sh`
 
 > Standardizes filenames with the following: replace whitespace with "-".
