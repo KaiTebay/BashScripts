@@ -1,6 +1,9 @@
 # BashScripts
 Simple Bash scripts for various admin and user tasks.
 
+`Combination-Audio-ALSA.sh`
+> Configures ALSA to recognize combination audio jacks.
+
 `FilenameFix.sh`
 
 > Standardizes filenames with the following: replace whitespace with "-".
@@ -9,7 +12,7 @@ Simple Bash scripts for various admin and user tasks.
 
 > Configures gsettings to set the mouse acceleration profile to "flat".
 
-`nmRandomMACs.sh` | **Run with sudo**
+`nmRandomMACs.sh` | **`sudo`**
 
 > Configures NetworkManager to randomize MAC Addresses for Wi-Fi connections.
 *Defaults to random MACs for individual connections to enable static IP from DHCP.*
