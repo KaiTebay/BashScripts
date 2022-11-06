@@ -6,7 +6,7 @@ Simple Bash scripts for various admin and user tasks.
 
 `FilenameFix.sh`
 
-> Standardizes filenames with the following: replace whitespace with "-".
+> Standardizes filenames with the following: replace whitespace with "-" and remove special characters.
 
 `MouseAcceleration.sh`
 
